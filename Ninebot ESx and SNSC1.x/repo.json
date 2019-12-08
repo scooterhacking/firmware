@@ -1,0 +1,16 @@
+{
+"repo":{
+	"infos": {
+		"name": "ESx/SNSC1.x OFW/RFW by ScooterHacking.org",
+		"model": "esx",
+		"dirname": "esx_scooterhacking",
+		"files_URL": "https://files.scooterhacking.org/esx/fw/",
+		"requires_nonenc": []
+		},
+	"files": {
+		"DRV": [120, 133, 139, 147, 150, 151, 301, 777],
+		"BMS": [122, 136, 141],
+		"BLE": [106, 107, 301]
+		}
+	}
+}

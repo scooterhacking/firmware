@@ -1,0 +1,16 @@
+{
+"repo":{
+	"infos": {
+		"name": "M365 Pro OFW by ScooterHacking.org",
+		"model": "m365pro",
+		"dirname": "m365pro_scooterhacking",
+		"files_URL": "https://files.scooterhacking.org/m365pro/fw/",
+		"requires_nonenc": ["BLE", "BMS"]
+		},
+	"files": {
+		"DRV": [152, 155, 160],
+		"BMS": [116],
+		"BLE": [74, 90]
+		}
+	}
+}

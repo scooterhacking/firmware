@@ -1,0 +1,16 @@
+{
+"repo":{
+	"infos": {
+		"name": "Max G30 OFW/RFW by ScooterHacking.org",
+		"model": "max",
+		"dirname": "max_scooterhacking",
+		"files_URL": "https://files.scooterhacking.org/max/fw/",
+		"requires_nonenc": []
+		},
+	"files": {
+		"DRV": [126],
+		"BMS": [134],
+		"BLE": [110, 113, 555, 801, 803]
+		}
+	}
+}
