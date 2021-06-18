@@ -1,0 +1,3 @@
+- Version: DRV534
+- Model: F-series
+- Original firmware
